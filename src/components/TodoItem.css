@@ -27,3 +27,8 @@
   border-radius: 5px;
   padding: 5px;
 }
+
+.TodoItem .completed {
+  text-decoration: line-through;
+  color: rgb(220, 220, 220);
+}
